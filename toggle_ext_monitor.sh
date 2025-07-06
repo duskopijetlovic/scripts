@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# From
+# Based on 
 #   <https://wiki.archlinux.org/title/Xrandr>
 #
 
